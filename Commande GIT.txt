@@ -1,0 +1,2 @@
+Git init = Permet d'initialiser un repo git en local.
+git add --all ou git add :permet d'ajout les fichiers au staging area (ou index).
